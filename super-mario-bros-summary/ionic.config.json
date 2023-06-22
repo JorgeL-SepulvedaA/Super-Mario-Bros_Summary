@@ -1,0 +1,7 @@
+{
+  "name": "Super Mario Bros (Summary)",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
